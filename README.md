@@ -1,4 +1,4 @@
-- Bacon
+- **Bacon**
 - Fish
 - Chicken
 - Rice
